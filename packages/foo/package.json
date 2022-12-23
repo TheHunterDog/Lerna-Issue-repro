@@ -1,6 +1,6 @@
 {
 	"name": "@lerna-issue-repro/foo",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "",
 	"scripts": {
 		"build": "vite build",
@@ -11,5 +11,6 @@
 	"license": "ISC",
 	"dependencies": {
 		"react": "^18.2.0"
-	}
+	},
+	"gitHead": "e171f88f6f416a76bc374ee3b647f1ea5d2a7aad"
 }
