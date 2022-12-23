@@ -1,0 +1,16 @@
+{
+	"name": "@lerna-issue-repro/bar",
+	"version": "1.0.4",
+	"description": "",
+	"scripts": {
+		"build": "vite build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@lerna-issue-repro/foo": "^1.0.4",
+		"react": "^18.2.0"
+	}
+}
