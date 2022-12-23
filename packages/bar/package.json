@@ -1,6 +1,6 @@
 {
 	"name": "@lerna-issue-repro/bar",
-	"version": "1.0.4",
+	"version": "0.0.1",
 	"description": "",
 	"scripts": {
 		"build": "vite build",
@@ -10,7 +10,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@lerna-issue-repro/foo": "^1.0.4",
+		"@lerna-issue-repro/foo": "^0.0.1",
 		"react": "^18.2.0"
 	}
 }
