@@ -2,12 +2,12 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.6",
+  "version": "0.0.9",
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "useWorkspaces": true,
   "command": {
     "publish": {
-      "registry": "https://gitlab.com/api/v4/projects/XXX/packages/npm/"
+      "registry": "http://localhost:4873/"
     }
   }
 }

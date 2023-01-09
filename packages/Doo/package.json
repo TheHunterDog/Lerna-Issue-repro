@@ -1,6 +1,6 @@
 {
 	"name": "@lerna-issue-repro/doo",
-	"version": "0.0.6",
+	"version": "0.0.9",
 	"description": "",
 	"scripts": {
 		"build": "vite build",
@@ -10,7 +10,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@lerna-issue-repro/foo": "^0.0.6",
+		"@lerna-issue-repro/foo": "^0.0.9",
 		"react": "^18.2.0"
 	},
 	"gitHead": "e171f88f6f416a76bc374ee3b647f1ea5d2a7aad"

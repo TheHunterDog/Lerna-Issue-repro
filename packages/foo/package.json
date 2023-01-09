@@ -1,6 +1,6 @@
 {
 	"name": "@lerna-issue-repro/foo",
-	"version": "0.0.6",
+	"version": "0.0.9",
 	"description": "",
 	"scripts": {
 		"build": "vite build",
